@@ -1,4 +1,4 @@
-# 🚆 Train Reservation System | 🚖 Taxi Booking App | ✈️ Flight Ticket Booking Console Projects
+# 🚆 Train Reservation System
 
 A suite of console-based Java applications designed to simulate real-world transportation booking systems with a focus on data structures, object-oriented programming (OOP), and user interaction through CLI.
 
@@ -13,24 +13,6 @@ A terminal-based system allowing users to:
 - Cancel reservations
 - Generate simple receipts
 - Admin mode for adding or removing train entries
-
-### 2. 🚖 Taxi Booking System
-Simulates city-based taxi booking with:
-- Dynamic fare calculation based on distance and type of vehicle
-- Driver assignment
-- Booking history logging
-- Basic admin panel for managing vehicle data
-
-### 3. ✈️ Flight Ticket Booking System
-A console-based flight booking manager featuring:
-- Flight listings by destination/date
-- Seat selection
-- PNR generation
-- User info validation and confirmation
-- Cancellation and refund logic
-
----
-
 ## 🔧 Tech Stack
 
 - **Language:** Java
@@ -54,4 +36,4 @@ A console-based flight booking manager featuring:
 1. Clone the repo or copy the `.java` files into your IDE
 2. Compile using:
    ```bash
-   javac train_reservation_system.java   # or TaxiBooking.java / FlightBooking.java
+   javac train_reservation_system.java
